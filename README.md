@@ -1,4 +1,5 @@
 # healthcare-operations-dashboard
+![Dashboard Preview](dashboard_preview.png)
 # Operations & Staffing Performance Optimization Dashboard
 
 ## 📌 Business Case Overview
